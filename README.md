@@ -22,20 +22,20 @@ Esse projeto foi configurado com [Spring Initializr](https://start.spring.io/).
 
 ## Insomnia screenshots
 
-<img src="https://i.imgur.com/6MfL3Hd.png" width="400;"/>
+<img src="https://i.imgur.com/6MfL3Hd.png" width="600;"/>
 
 ---
 
-<img src="https://i.imgur.com/gXlis7t.png" width="400;"/>
+<img src="https://i.imgur.com/gXlis7t.png" width="600;"/>
 
 ---
 
-<img src="https://i.imgur.com/i8Oz4fo.png" width="400;"/>
+<img src="https://i.imgur.com/i8Oz4fo.png" width="600;"/>
 
 ---
 
-<img src="https://i.imgur.com/7HV9LtD.png" width="400;"/>
+<img src="https://i.imgur.com/7HV9LtD.png" width="600;"/>
 
 ---
 
-<img src="https://i.imgur.com/LPUw8GP.png" width="400;"/>
+<img src="https://i.imgur.com/LPUw8GP.png" width="600;"/>
