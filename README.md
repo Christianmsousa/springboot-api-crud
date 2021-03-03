@@ -13,22 +13,6 @@
   JPA e controle de Exceptions.
 </p>
 
-# O que você encontrará no projeto
-
-- [x] _autenticação com **Spring Security** com **JWT**_.
-  - [ ] **refresh token**
-- [ ] **CRUD completo de usuarios e permissões**.
-  - [x] _usuarios_
-  - [ ] **permissões**
-- [x] _relatorio de cobertura dos testes_
-- [ ] **testes unitarios**
-- [ ] **testes de integração**
-- [x] _swagger_
-- [x] _database migration **Flyway**_
-- [x] _Soft delete e TIMESTAMPS_
-
----
-
 ## Requisitos
 
 - Postgres: `^13`
