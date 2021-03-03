@@ -62,6 +62,7 @@ public class ErrorController {
   @ExceptionHandler(InvalidUpdateException.class)
   public Details<BaseMessage> invalidUpdate() {
 
-    return new Details<BaseMessage>(LocalDateTime.now(), 400, "Bad Request", new BaseMessage("You can't update email"));
+    return new Details<BaseMessage>(LocalDateTime.now(), 400, "Bad Request",
+        new BaseMessage("You cannot change the email address"));
   }
 }
